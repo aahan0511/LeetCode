@@ -19,7 +19,7 @@ CODE
 
 # Proof
 
-![-ms | Beats --.--% ; --.--MB Beats --.--%](img)
+[![-ms | Beats --.--% ; --.--MB Beats --.--%](img)](link)
 
 # Support
 
