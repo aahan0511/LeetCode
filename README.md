@@ -18,4 +18,5 @@ pip install -r requirements.txt
 
 You dont need to use a Patreon to support me, just star the repository and upvote the solutions on LeetCode if you like them or they help you learn something new. You may also follow me on GitHub 😄.
 
-This is me on LeetCode: [![Aahan Salecha | aahan0511](static/profilepic.png)](https://leetcode.com/aahan0511/)
+This is me on LeetCode:
+[![Aahan Salecha | aahan0511](static/profilepic.png)](https://leetcode.com/aahan0511/)
