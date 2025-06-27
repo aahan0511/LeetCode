@@ -3,7 +3,7 @@
 These are my LeetCode solutions, which I have solved. The solutions are organized by problem number.
 
 There are two files in each problem folder:
-- `main.py`: The main solution file.
+- `main`: The main solution file.
 - `detail.md`: A detailed explanation of the solution, corresponding to the LeetCode Solution I wrote.
 
 ## PIP Packages
