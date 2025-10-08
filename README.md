@@ -8,9 +8,23 @@ There are two files in each problem folder:
 
 ## PIP Packages
 
-Some repositories may need some packages to run the code, the packages are listed in the `requirements.txt` file. You can install them using pip:
+Some repositories may need some packages to run the code, the packages are listed in the `requirements.txt` file for each question's subfolder. You can install them using `pip`:
 
 ```bash
+pip install -r requirements.txt
+```
+
+Or you can use `uv`:
+```bash
+uv sync --group <QUESTION_NUMBER>
+```
+
+Put the question number after group. For example if you want to install the requirements for Q2877, you can do either of the following:
+```bash
+uv sync --group 2877
+```
+```bash
+cd source/2877. Create a DataFrame from List
 pip install -r requirements.txt
 ```
 
