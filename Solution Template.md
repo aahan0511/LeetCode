@@ -13,13 +13,13 @@
 
 # Code
 
-```LANGUAGE
+```LANGUAGE []
 CODE
 ```
 
 # Proof
 
-[![-ms | Beats --.--% ; --.--MB Beats --.--%](img)](link)
+[![-ms | Beats --.--% ; --.--MB Beats --.--%](img)](https://leetcode.com/submissions/detail/<NUMBER>/)
 
 # Support
 
