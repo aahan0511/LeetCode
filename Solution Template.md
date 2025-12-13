@@ -8,8 +8,8 @@
 
 # Complexity
 
-- Time complexity: `O(...)` | *Beats --.--%*
-- Space complexity: `O(...)` | *Beats --.--%*
+- Time complexity: `O(...)` | **-ms** | *Beats --.--%*
+- Space complexity: `O(...)` | **--.--MB** | *Beats --.--%*
 
 # Code
 
