@@ -1,3 +1,5 @@
+// 1768. Merge Strings Alternately
+
 #include <string>
 using namespace std;
 
