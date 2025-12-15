@@ -1,0 +1,14 @@
+// 709. To Lower Case
+
+#include <string>
+using namespace std;
+
+class Solution {
+public:
+    string toLowerCase(string s) {
+        for (char &c : s) {
+            if (c > 64 && c < 91) c += 32;
+        }
+        return s;
+    }
+};
